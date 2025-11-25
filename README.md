@@ -1,1 +1,9 @@
-# python-practice
+# python練習用コード
+
+##　内容
+- python基礎
+- クラス・リスト・辞書
+- Flaskを使ったミニWebアプリ
+
+## 目的
+Webエンジニアとしての基礎スキル習得
